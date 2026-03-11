@@ -1,6 +1,6 @@
 # 🖼️ SVG QR Code Generator
 
-A sleek, minimal QR code generator built with **React**, **Vite**, and **Tailwind CSS** — powered by the [`qrcode.react`](https://www.npmjs.com/package/qrcode.react) library!  
+A sleek, minimal QR code generator built with **React**, **Vite**, and **Tailwind CSS** - powered by the [`qrcode.react`](https://www.npmjs.com/package/qrcode.react) library!  
 Generate crisp, customizable SVG QR codes in seconds, and download them with a single click.
 
 ---
@@ -19,6 +19,12 @@ Generate crisp, customizable SVG QR codes in seconds, and download them with a s
 ## 🔥 Check it Out
 
 Try it live here 👉 [https://svg-qr-code-generator.onrender.com/](https://svg-qr-code-generator.onrender.com/)
+
+---
+
+## 📸 Screenshot
+
+![Screenshot1](screenshots/1.png)
 
 ---
 
